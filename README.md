@@ -1,2 +1,1 @@
-# odin-recipes
-Odin recipes repo
+A recipe website made from html that goes over the basics.
